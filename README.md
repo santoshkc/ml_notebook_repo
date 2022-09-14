@@ -5,3 +5,4 @@ Collection of notebooks to illustrate different ml concepts.
 * Mnist(using only Conv2d)
 * Simple AutoRegressive Model(2d data)
 * Language Generation/Evaluation(using Bigram + Neural Network)
+* MLP for Generation/Evaluation
